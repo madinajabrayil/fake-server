@@ -40,69 +40,69 @@
             "header": "Graphic Design",
             "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
             "client": "Jhon Sara",
-            "date": "28.05.2019",
+            "date": "18.09.2019",
             "image": "../img/note.jpg"
 
         },
                   {
             "id": 6,
-            "header": "Graphic Design",
-            "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
-            "client": "Jhon Sara",
-            "date": "28.05.2019",
+            "header": "Light Design",
+            "text": "Alias, placeat? Odit quis tenetur aliquid magni provident, dolores commodi. Nobis, quidem nostrum. Similique illum in repudiandae!",
+            "client": "Deep David",
+            "date": "11.01.2019",
             "image": "../img/note.jpg"
 
         },
                   {
             "id": 7,
-            "header": "Graphic Design",
+            "header": "3D Graphic",
             "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
-            "client": "Jhon Sara",
-            "date": "28.05.2019",
+            "client": "Lorem Impus",
+            "date": "16.05.2019",
             "image": "../img/note.jpg"
 
         },
                   {
             "id": 8,
-            "header": "Graphic Design",
-            "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
-            "client": "Jhon Sara",
+            "header": "Web Design",
+            "text": "Arxidet orem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
+            "client": "David Jhon",
             "date": "28.05.2019",
             "image": "../img/note.jpg"
 
         },
                   {
             "id": 9,
-            "header": "Graphic Design",
+            "header": "Lorem Impus",
             "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
-            "client": "Jhon Sara",
-            "date": "28.05.2019",
+            "client": "SarahSara",
+            "date": "26.11.2019",
             "image": "../img/note.jpg"
 
         },
                   {
             "id": 10,
-            "header": "Graphic Design",
-            "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
-            "client": "Jhon Sara",
-            "date": "28.05.2019",
+            "header": "Graphic Web",
+            "text": "Ipisicing elit. Aliquam quae debitis alias vLorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
+            "client": "Jhon Deep",
+            "date": "03.05.2019",
             "image": "../img/note.jpg"
 
         },
                   {
             "id": 11,
-            "header": "Graphic Design",
-            "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
-            "client": "Jhon Sara",
-            "date": "28.05.2019",
+            "header": "Web servicen",
+            "text": "Dolores libero sint veniam porroLorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
+            "client": "Jhon Brit",
+            "date": "12.04.2019",
             "image": "../img/note.jpg"
 
         },
                   {
             "id": 12,
             "header": "Graphic Design",
-            "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
-            "client": "Jhon Sara",
+            "text": "debitis alias voluptate dolores libero Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
+            "client": "Brad Sara",
             "date": "28.05.2019",
             "image": "../img/note.jpg"
 
