@@ -14,7 +14,7 @@
             "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
             "client": "Jhon Bred",
             "date": "23.02.2019",
-            "image": "../img/note.jpg"
+            "image": "https://images.unsplash.com/photo-1494537449588-7f07cede2556?ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80"
 
         },
         {
@@ -23,7 +23,7 @@
             "text": "Dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
             "client": "Sara Bred",
             "date": "13.07.2019",
-            "image": "../img/honey.jpg"
+            "image": "https://images.unsplash.com/photo-1546924282-ca0adcbdb8a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=503&q=80"
 
         },
         {
@@ -32,7 +32,7 @@
             "text": "Recusandae velit animi, similique officiis praesentium minima quibusdam itaque, sunt facere nostrum atque? Optio, magnam. Explicabo, molestias. Similique eaque dignissimos voluptatum perferendis?",
             "client": "Jhon Bred",
             "date": "03.02.2019",
-            "image": "../img/phone.jpg"
+            "image": "https://images.unsplash.com/photo-1555480844-b56f06ac39f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
 
         },
         {
@@ -41,7 +41,7 @@
             "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
             "client": "Jhon Sara",
             "date": "18.09.2019",
-            "image": "../img/note.jpg"
+            "image": "https://images.unsplash.com/photo-1509395062183-67c5ad6faff9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80"
 
         },
                   {
@@ -50,7 +50,7 @@
             "text": "Alias, placeat? Odit quis tenetur aliquid magni provident, dolores commodi. Nobis, quidem nostrum. Similique illum in repudiandae!",
             "client": "Deep David",
             "date": "11.01.2019",
-            "image": "../img/note.jpg"
+            "image": "https://images.unsplash.com/photo-1553531768-4ce3fb0b07fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80"
 
         },
                   {
@@ -59,7 +59,7 @@
             "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
             "client": "Lorem Impus",
             "date": "16.05.2019",
-            "image": "../img/note.jpg"
+            "image": "https://images.unsplash.com/photo-1494537449588-7f07cede2556?ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80"
 
         },
                   {
@@ -68,7 +68,7 @@
             "text": "Arxidet orem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
             "client": "David Jhon",
             "date": "28.05.2019",
-            "image": "../img/note.jpg"
+            "image": "https://images.unsplash.com/photo-1546924282-ca0adcbdb8a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=503&q=80"
 
         },
                   {
@@ -77,7 +77,7 @@
             "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
             "client": "SarahSara",
             "date": "26.11.2019",
-            "image": "../img/note.jpg"
+            "image": "https://images.unsplash.com/photo-1509395062183-67c5ad6faff9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80"
 
         },
                   {
@@ -86,7 +86,7 @@
             "text": "Ipisicing elit. Aliquam quae debitis alias vLorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
             "client": "Jhon Deep",
             "date": "03.05.2019",
-            "image": "../img/note.jpg"
+            "image": "https://images.unsplash.com/photo-1494537449588-7f07cede2556?ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80"
 
         },
                   {
@@ -95,7 +95,7 @@
             "text": "Dolores libero sint veniam porroLorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
             "client": "Jhon Brit",
             "date": "12.04.2019",
-            "image": "../img/note.jpg"
+            "image": "https://images.unsplash.com/photo-1553531768-4ce3fb0b07fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
 
         },
                   {
@@ -104,7 +104,7 @@
             "text": "debitis alias voluptate dolores libero Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quae debitis alias voluptate dolores libero sint veniam porro modi aperiam!",
             "client": "Brad Sara",
             "date": "28.05.2019",
-            "image": "../img/note.jpg"
+            "image": "https://images.unsplash.com/photo-1553531768-4ce3fb0b07fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80"
 
         }
                  
